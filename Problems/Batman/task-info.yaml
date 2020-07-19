@@ -1,0 +1,13 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: '# create a Batman here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8090
+status: Solved
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Sun, 19 Jul 2020 15:51:04 UTC
+record: -1
